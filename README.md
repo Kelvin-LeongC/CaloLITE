@@ -13,7 +13,7 @@ An 3D-interactive GUI that display all the cells in the calorimeter of the ATLAS
 ## Installation
 1. The following package is needed to run the program: 
 ```
-
+pip install uproot PySide6 PyOpenGL
 ```
 2. The demonstration datasets (including a file for $\pi^0$ and a file for $\pi^+$) can be found in this [link](https://cernbox.cern.ch/s/EmbSH7xjvuoFk0i). Download the datasets and move them to the `database` folder.
 
